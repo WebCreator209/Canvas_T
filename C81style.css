@@ -1,0 +1,28 @@
+
+h1
+{
+	color: rgb(104, 117, 192); 
+	font-size: 40px;
+}
+body{
+background-image: url("https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2024/04/helldivers-2-update-patch-notes.jpg");
+background-size: cover;
+}
+#can{
+border-width: 5px;
+background-color: rgba(0, 0, 0, 0.158);
+border-style: dashed;
+border-radius: 10%;
+border-color: aquamarine;
+}
+span,button{
+	font-size: 25px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	
+
+}
+button{
+	background-color: black;
+	border-radius: 10px;
+	color: greenyellow;
+}
